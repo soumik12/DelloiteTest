@@ -1,0 +1,46 @@
+[
+    {
+        "id": "001", 
+        "name": "Coombes", 
+        "image": "../assets/furnitures/1.jpg",
+        "price": "100",
+        "category": "Dressing table"
+    },
+  
+    {
+        "id": "002", 
+        "name": "Keeveset", 
+        "image": "../assets/furnitures/2.jpg",
+        "price": "160",
+        "category": "Table & chair"
+    },
+  
+    {
+        "id": "003", 
+        "name": "Nille", 
+        "image": "../assets/furnitures/3.jpg",
+        "price": "1020",
+        "category": "Sofa"
+    },
+    {
+        "id": "004", 
+        "name": "Momo", 
+        "image": "../assets/furnitures/4.jpg",
+        "price": "120",
+        "category": "Accessories"
+    },
+    {
+        "id": "005", 
+        "name": "Penemille", 
+        "image": "../assets/furnitures/5.jpg",
+        "price": "420",
+        "category": "Desk"
+    }
+    ,{
+        "id": "006", 
+        "name": "Kappu", 
+        "image": "../assets/furnitures/6.jpg",
+        "price": "890",
+        "category": "Cot"
+    }
+]
